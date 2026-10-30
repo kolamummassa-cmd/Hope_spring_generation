@@ -1,0 +1,15 @@
+# Local workspace files
+.agents/
+.codex/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Source documents and temporary office files
+Organization Profile.docx
+.~lock.*#
+
+# Local template backups
+Dewi-original/
+Dewi-concept-backup/
